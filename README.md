@@ -1,6 +1,6 @@
 # location-app
 
-##Setting up frontend
+## Setting up frontend
 
 ```
 cd location-app-frontend
@@ -8,7 +8,7 @@ npm install
 npm start
 ```
 
-##Setting up backend
+## Setting up backend
 ```
 cd location-app-frontend
 npm install
